@@ -1,2 +1,4 @@
 # hello-world
-try it
+try 
+Just to tray it
+ولمعرفة كيفية التعديل
